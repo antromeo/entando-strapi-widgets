@@ -1,4 +1,4 @@
-image: romeocontainers/entando-strapi-template:1.0.0
+image: romeocontainers/entando-strapi-template:1.0.1
 dbms: postgresql
 ingressPath: "/entando-template-api"
 healthCheckPath: "/actuator/health"

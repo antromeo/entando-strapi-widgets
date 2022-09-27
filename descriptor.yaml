@@ -1,0 +1,9 @@
+code: entando-strapi-widget-bundle
+description: Entando Strapi widget bundle
+components:
+  plugins:
+    - plugins/strapi-template-plugin.yaml
+  widgets:
+    - ui/widgets/widgets-dir/strapi-content-template-widget-app/strapi-widgets-bundle-descriptor.yaml
+    - ui/widgets/widgets-dir/strapi-content-widget-app/strapi-widgets-bundle-descriptor.yaml
+    - ui/widgets/widgets-dir/strapi-content-list-widget-app/strapi-widgets-bundle-descriptor.yaml
